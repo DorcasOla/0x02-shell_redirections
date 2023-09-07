@@ -1,2 +1,2 @@
-# 0x02-shell_redirections
-Shell Redirections
+# ALX-LOW_LEVEL_PROGRAMMING
+C Programming Language
